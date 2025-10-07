@@ -14,7 +14,7 @@ Combo Lab is currently working on the following projects.
 - Consolidate related dependencies:
   - Merge `phoenix_template`, `phoenix_html`, `phoenix_live_reload`, and other tightly coupled packages.
   - Extract the HEEx template engine from `phoenix_live_view` while removing the `phoenix_live_view` dependency entirely.
-- Modernize frontend integration - Work with the frontend ecosystem instead of against it.
+- Modernize frontend integration - Embrace the frontend ecosystem rather than resist it.
 
 Although `combo` will continue to track `phoenix` changes, full compatibility is not guaranteed.
 
