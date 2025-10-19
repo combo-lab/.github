@@ -6,6 +6,8 @@ Most projects of Combo Lab are forks of existing work rather than built from scr
 
 Combo Lab is currently working on the following projects.
 
+> NOTICE: Prior to v1.0.0, minor version increments may include breaking changes.
+
 ## combo
 
 [`combo`](https://github.com/combo-lab/combo) started as a fork of [`phoenix`](https://github.com/phoenixframework/phoenix) with following goals:
