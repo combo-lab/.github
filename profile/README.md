@@ -1,6 +1,6 @@
-Most projects of Combo Lab are forks of existing work rather than built from scratch. I maintain original licenses and do our best to honor all license requirements. If you notice any license compliance issues, please reach out, I'm committed to making things right.
+Most projects here are forks of existing work. I preserve original licenses and do my best to meet their requirements. If you spot any compliance issues, please reach out — I'll make it right.
 
-**Thank you** to all the open source developers whose work made these projects possible.
+Thanks to all the open source developers who made this possible.
 
 ---
 
