@@ -1,3 +1,7 @@
+All of these projects are for my own use, I have no interest in promoting them publicly.
+
+---
+
 Most projects here are forks of existing work. I preserve original licenses and do my best to meet their requirements. If you spot any compliance issues, please reach out — I'll make it right.
 
 Thanks to all the open source developers who made this possible.
